@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I’m currently working on ... becoming a better  programmer.
-- 🌱 I’m currently learning ...NextJS, Solidity, OOP and Dart.
-- 👯 I’m looking to collaborate on ... fun projects related on my learning topics.
+- 🔭 I’m currently working on ... becoming a much better programmer.
+- 🌱 I’m currently learning ...NextJS, Solidity, Typescript(OOP) and Dart(Flutter).
+- 👯 I’m looking to collaborate on ... fun projects related to the learning topics above.
 - 🤔 I’m looking for help with ... my still improvable discipline and programming related motivation.
 - 💬 Ask me about ... anything, really.
 - 📫 How to reach me: ... through my email : pongzthor@gmail.com
-- 😄 Pronouns: ... Introverted, Inituitive, Thinking, Judging, and Assertive. 
+- 😄 Pronouns: ... introverted, inituitive, thinking, judging, and assertive. 
 - ⚡ Fun fact: ... do you know that the number of people living or dead who are older than you cannot increase?
 
 <br/>  
