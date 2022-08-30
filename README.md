@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... becoming a much better programmer.
-- 🌱 I’m currently learning ...Typescript, AWS, Tailwind and Solidity.
+- 🌱 I’m currently learning ...Algorithms, AWS, Docker and Kubernetes.
 - 👯 I’m looking to collaborate on ... fun projects related to the learning topics above.
 - 🤔 I’m looking for help with ... my still improvable discipline and programming related motivation.
 - 💬 Ask me about ... anything, really.
